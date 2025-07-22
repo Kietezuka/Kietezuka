@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @Kie Tezuka!
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, SQL, C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Kie Tezuka!
 
-<!---
-Kietezuka/Kietezuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science student at the University of Debrecen in Hungary, originally from Japan.
+
+## 🌱 Currently Learning
+- Front-end development
+- JavaScript (focusing on fundamentals and hands-on projects)
+- Starting React soon!
+
+## 🎯 Goals
+- Build responsive, user-friendly web applications
+- Gain real-world experience through internships and collaborative projects
+- Continuously grow as a developer
+
+## 💻 Tech Stack (so far)
+- HTML, CSS
+- JavaScript (ES6+)
+- Git & GitHub
+- SQL
+ 
+- ## ✈️ Fun Fact
+I love traveling and exploring new cultures! 🌍
+
+## 📫 Connect with me
+- Email: [tezukakie@gmail.com]  
+- LinkedIn: [your LinkedIn link](https://www.linkedin.com/in/tezukakie/)]  
+- Portfolio (Coming soon!)
+
+Thanks for visiting my profile! 😊
