@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Kie Tezuka!<br><br>I'm a Computer Science student at the University of Debrecen in Hungary, originally from Japan.<br><br>🌱 Currently Learning<br>- Front-end development<br>- JavaScript (focusing on fundamentals and hands-on projects)<br>- Starting React soon!<br><br>🎯 Goals<br>- Build responsive, user-friendly web applications<br>- Gain real-world experience through internships and collaborative projects<br>- Continuously grow as a developer<br><br>Thanks for visiting my profile! 😊
+👋 Hi, I'm Kie Tezuka!<br><br>I'm a Computer Science student at the University of Debrecen in Hungary, originally from Japan.<br><br>🌱 Currently Learning<br>- Front-end development<br>- JavaScript (focusing on fundamentals and hands-on projects)<br>- React<br><br>🎯 Goals<br>- Build responsive, user-friendly web applications<br>- Gain real-world experience through internships and collaborative projects<br>- Continuously grow as a developer<br><br>Thanks for visiting my profile! 😊
 
 
 ## 🌐 Socials:
